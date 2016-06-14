@@ -1,0 +1,3 @@
+stm32f10x_it.o: ..\User\stm32f10x_it.c
+stm32f10x_it.o: ..\User\stm32f10x_it.h
+stm32f10x_it.o: C:\Keil\ARM\Inc\ST\STM32F10x\stm32f10x.h
